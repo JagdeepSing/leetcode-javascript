@@ -1,0 +1,24 @@
+{
+  "name": "leetcode-javascript",
+  "version": "1.0.0",
+  "description": "Collection of all of my work from leetcode.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "./node_modules/eslint/bin/eslint.js **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JagdeepSing/leetcode-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JagdeepSing/leetcode-javascript/issues"
+  },
+  "homepage": "https://github.com/JagdeepSing/leetcode-javascript#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.1.0"
+  }
+}
