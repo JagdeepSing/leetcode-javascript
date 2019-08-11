@@ -5,7 +5,7 @@ Collection of all of my work from leetcode.com
 ## Easy
 
 ### String
-- [344. Reverse String](problems/string/reverse-string-easy)
+- [344. Reverse String](problems/string/reverse-string)
 
 ### Array
 - [136. Single Number](problems/array/single-number)
