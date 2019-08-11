@@ -1,7 +1,9 @@
 /**
  * Returns array of string representation of numbers from 1 to n.
- * 
- * For multiples of 3, the representation is 'Fizz' and for the multiples of 5 the representation is 'Buzz'. For multiples of 5 and 3, representation is 'FizzBuzz'.
+ *
+ * For multiples of 3, the representation is 'Fizz'. 
+ * For the multiples of 5 the representation is 'Buzz'. 
+ * For multiples of 5 and 3, representation is 'FizzBuzz'.
  *
  * @export
  * @param {*} n
