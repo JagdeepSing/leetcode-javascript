@@ -10,7 +10,7 @@ Collection of problems I solve on leetcode
 - [1. Two Sum](problems/array/two-sum)
 - [121. Best Time to Buy and Sell Stock](problems/array/max-profit)
 - [136. Single Number](problems/array/single-number)
-- [217. Contains Duplicate]()
+- [217. Contains Duplicate](problems/array/contains-duplicate)
 - [412. Fizz Buzz](problems/array/fizz-buzz)
 
 ### Tree
