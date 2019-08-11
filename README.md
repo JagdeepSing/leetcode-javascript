@@ -9,6 +9,7 @@ Collection of all of my work from leetcode.com
 
 ### Array
 - [1. Two Sum](problems/array/two-sum)
+- [121. Best Time to Buy and Sell Stock]()
 - [136. Single Number](problems/array/single-number)
 - [412. Fizz Buzz](problems/array/fizz-buzz)
 
