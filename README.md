@@ -1,6 +1,5 @@
 # Leetcode-JavaScript
-Collection of all of my work from leetcode.com
-
+Collection of problems I solve on leetcode
 
 ## Easy ----------------
 
