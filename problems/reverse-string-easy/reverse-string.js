@@ -1,10 +1,3 @@
-/**
- * Problem:
- *    Write a function that reverses a string.
- *
- *    You can assume all the characters consist of printable ascii characters.
- */
-// ----------------------------------------------------------------------------
 
 /**
  * Reverses a string in O(n) time and space, where n is the size of the string
