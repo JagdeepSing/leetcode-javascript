@@ -6,6 +6,7 @@ Collection of problems I solve on leetcode
 - [344. Reverse String](problems/string/reverse-string)
 ### Array
 - [1. Two Sum](problems/array/two-sum)
+- [53. Maximum Subarray](problems/array/max-subarray)
 - [121. Best Time to Buy and Sell Stock](problems/array/max-profit)
 - [136. Single Number](problems/array/single-number)
 - [217. Contains Duplicate](problems/array/contains-duplicate)
