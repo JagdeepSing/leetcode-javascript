@@ -18,6 +18,7 @@ Collection of problems I solve on leetcode
 ## Medium --------------
 ### Array
 - [152. Maximum Product Subarray](problems/array/max-product-subarray)
+- [153. Find Minimum in Rotated Sorted Array]()
 - [238. Product of Array Except Self](problems/array/product-except-self)
 ### Graph
 - [200. Number of Islands](problems/graph/number-of-islands)
