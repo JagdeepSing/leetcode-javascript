@@ -7,13 +7,13 @@
  * @returns {Array}
  */
 export default function twoSum(nums, target) {
-  const vals = {};
+  const vals = new Map();
 
   for (let i = 0; i < nums.length; i++) {
-    if (vals.hasOwnProperty(target - nums[i])) {
-      return [vals[target - nums[i]], i];
+    if (vals.has(target - nums[i])) {
+      return [vals.get(target - nums[i]), i];
     }
-    vals[nums[i]] = i;
+    vals.set(nums[i], i);
   }
   return [];
 }
