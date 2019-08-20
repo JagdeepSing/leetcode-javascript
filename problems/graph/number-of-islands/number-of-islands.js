@@ -2,7 +2,7 @@
  *  Returns number of islands in a 2D array of 1's (land) and 0's (water).
  *
  * @export
- * @param {Array[Array]]} grid
+ * @param {Array} grid
  * @returns {Number} count of islands in 2D array
  */
 export default function numOfIslands(grid) {
@@ -23,7 +23,7 @@ export default function numOfIslands(grid) {
 /**
  *  Adds all connected 1's in grid to explored land set.
  *
- * @param {Array[[Array]]} grid
+ * @param {Array} grid
  * @param {Set} exploredLand
  * @param {Number} x
  * @param {Number} y
