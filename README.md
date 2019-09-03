@@ -22,6 +22,7 @@ Collection of problems I solve on leetcode
 ### String
 - [3. Longest Substring w/o Repeating Characters](problems/string/longest-substring)
 - [17. Letter Combinations of a Phone Number](problems/string/letter-combinations-phone-number)
+- [22. Generate Parentheses](problems/string/generate-parentheses)
 - [46. Permutations](problems/string/permutations)
 ### Array
 - [15. 3Sum](problems/array/3Sum)
