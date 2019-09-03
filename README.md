@@ -16,6 +16,8 @@ Collection of problems I solve on leetcode
 
 
 ## Medium --------------
+### String
+- [46. Permutations](problems/string/permutations/permutations)
 ### Array
 - [152. Maximum Product Subarray](problems/array/max-product-subarray)
 - [153. Find Minimum in Rotated Sorted Array]()
