@@ -1,5 +1,4 @@
 # Leetcode-JavaScript
-Collection of problems I solve on leetcode
 
 ## Easy ----------------
 
