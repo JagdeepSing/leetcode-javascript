@@ -3,6 +3,9 @@ function buildTree(inorder, postorder) {
   if (postorder.length === 0) {
     return null;
   }
+  if (postorder.length === 1) {
+    return new TreeNode(postorder[0]);
+  }
 
   let rootVal = postorder.pop();
   let rootIdxInOrder = inorder.indexOf(rootVal);
