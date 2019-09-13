@@ -21,6 +21,7 @@ Collection of problems I solve on leetcode
 
 ### String
 - [3. Longest Substring w/o Repeating Characters](problems/string/longest-substring)
+- [6. ZigZag Conversion](problems/string/zigzag-conversion)
 - [17. Letter Combinations of a Phone Number](problems/string/letter-combinations-phone-number)
 - [22. Generate Parentheses](problems/string/generate-parentheses)
 - [46. Permutations](problems/string/permutations)
@@ -30,5 +31,7 @@ Collection of problems I solve on leetcode
 - [152. Maximum Product Subarray](problems/array/max-product-subarray)
 - [153. Find Minimum in Rotated Sorted Array]()
 - [238. Product of Array Except Self](problems/array/product-except-self)
+### Tree
+- [979. Distribute Coins in Binary Tree](problems/tree/distribute-coins-binary-tree)
 ### Graph
 - [200. Number of Islands](problems/graph/number-of-islands)
