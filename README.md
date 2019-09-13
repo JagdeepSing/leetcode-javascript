@@ -32,5 +32,7 @@
 - [238. Product of Array Except Self](problems/array/product-except-self)
 ### Tree
 - [979. Distribute Coins in Binary Tree](problems/tree/distribute-coins-binary-tree)
+- [106. Construct Binary Tree from Inorder and Postorder Traversal](problems/tree/construct-binary-tree-from-inorder-and-postorder-traversal)
 ### Graph
 - [200. Number of Islands](problems/graph/number-of-islands)
+- [1129. Shortest Path with Alternating Colors](problems/graph/shortest-path-alternating-colors)
