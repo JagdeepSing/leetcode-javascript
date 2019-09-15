@@ -4,6 +4,7 @@
 
 ### String
 - [344. Reverse String](problems/string/reverse-string)
+- [387. First Unique Character in a String](problems/string/first-unique-character-in-a-string)
 ### Array
 - [1. Two Sum](problems/array/two-sum)
 - [53. Maximum Subarray](problems/array/max-subarray)
