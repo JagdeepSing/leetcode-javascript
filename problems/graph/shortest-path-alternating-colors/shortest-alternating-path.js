@@ -9,7 +9,7 @@ class Node {
 }
 
 // Shortest Path with Alternating Colors
-
+// TODO: Not passing all test cases on leetcode
 function shortestAlternatingPaths(n, red_edges, blue_edges) {
   if (n <= 1) {
     return [0];
