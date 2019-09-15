@@ -15,6 +15,7 @@
 - [155. Min Stack](problems/stack/min-stack)
 ### Tree
 - [104. Maximum Depth of Binary Tree](problems/tree/max-depth-of-binary-tree)
+- [270. Closest Binary Search Tree Value](problems/tree/closest-binary-search-tree-value)
 
 ## Medium --------------
 
