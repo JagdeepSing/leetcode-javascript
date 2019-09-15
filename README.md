@@ -28,6 +28,7 @@
 ### Array
 - [15. 3Sum](problems/array/3Sum)
 - [48. Rotate Image](problems/array/rotate-image)
+- [75. Sort Colors](problems/array/sort-colors)
 - [152. Maximum Product Subarray](problems/array/max-product-subarray)
 - [153. Find Minimum in Rotated Sorted Array]()
 - [238. Product of Array Except Self](problems/array/product-except-self)
