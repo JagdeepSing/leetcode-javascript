@@ -14,6 +14,8 @@
 - [412. Fizz Buzz](problems/array/fizz-buzz)
 ### Stack
 - [155. Min Stack](problems/stack/min-stack)
+### Linked List
+- [234. Palindrome Linked List](problems/linked-list/is-palindrome)
 ### Tree
 - [104. Maximum Depth of Binary Tree](problems/tree/max-depth-of-binary-tree)
 - [270. Closest Binary Search Tree Value](problems/tree/closest-binary-search-tree-value)
